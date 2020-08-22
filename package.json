@@ -1,0 +1,19 @@
+{
+  "name": "botproject",
+  "version": "1.0.0",
+  "description": "test bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "sunil yadav",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "google-query": "^1.0.3",
+    "jsearch": "^1.0.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {}
+}

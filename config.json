@@ -1,0 +1,10 @@
+{
+    "BOT_TOKEN": "NzQ2Mjg5NTk0MzMyNDc5NjA4.Xz-KWA.z2VCCcZVFjEwNLcPE2Ngcvf2vP8",
+    "DB_CONFIG": {
+        "host"     : "localhost",
+        "user"     : "root",
+        "password" : "sunilsy08",
+        "database" : "test_schema"
+      }
+
+}
