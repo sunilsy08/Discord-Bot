@@ -1,3 +1,4 @@
+# Discord-Bot
 Use the below queries to first create the db structure
 
 Create schema `test_schema`;
