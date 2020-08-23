@@ -1,10 +1,12 @@
 {
-    "BOT_TOKEN": "NzQ2Mjg5NTk0MzMyNDc5NjA4.Xz-KWA.z2VCCcZVFjEwNLcPE2Ngcvf2vP8",
+    "BOT_TOKEN": "NzQ2Mjg5NTk0MzMyNDc5NjA4.Xz-KWA.XJbfr98qZARblf2uKN1MAClwDo0",
     "DB_CONFIG": {
-        "host"     : "localhost",
-        "user"     : "root",
-        "password" : "sunilsy08",
-        "database" : "test_schema"
+        "host"     : "sql12.freemysqlhosting.net",
+        "user"     : "sql12361853",
+        "password" : "sPylG6vmb5",
+        "database" : "sql12361853",
+        "port"     : 3306,
+        "connectionLimit" : 100
       }
 
 }
